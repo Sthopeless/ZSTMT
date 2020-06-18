@@ -1,0 +1,20 @@
+21:13:38 {"TuyaReceived":{"Data":"55AA0301002A7B2270223A227135796D68746F613673646A796D7778222C2276223A22312E302E30222C226D223A307D73","Cmnd":1,"CmndData":"7B2270223A227135796D68746F613673646A796D7778222C2276223A22312E302E30222C226D223A307D"}}
+21:13:38 TYA: MCU Product ID: {"p":"q5ymhtoa6sdjymwx","v":"1.0.0","m":0}
+21:13:38 TYA: Send "55aa0002000001"
+21:13:38 {"TuyaReceived":{"Data":"55AA0302000004","Cmnd":2}}
+21:13:38 TYA: RX MCU configuration Mode=0
+21:13:38 TYA: Read MCU state
+21:13:38 TYA: Send "55aa0008000007"
+21:13:38 {"TuyaReceived":{"Data":"55AA03070005010400010115","Cmnd":7,"CmndData":"0104000101","DpId":1,"DpIdType":4,"DpIdData":"01"}}
+21:13:38 TYA: fnId=11 is set for dpId=1
+21:13:38 TYA: RX Relay-1 --> MCU State: On Current State:On
+21:13:38 {"TuyaReceived":{"Data":"55AA03070008020200040000000019","Cmnd":7,"CmndData":"0202000400000000","DpId":2,"DpIdType":2,"DpIdData":"00000000"}}
+21:13:38 TYA: fnId=0 is set for dpId=2
+21:13:38 {"TuyaReceived":{"Data":"55AA03070005050100010015","Cmnd":7,"CmndData":"0501000100","DpId":5,"DpIdType":1,"DpIdData":"00"}}
+21:13:38 TYA: fnId=0 is set for dpId=5
+21:13:38 {"TuyaReceived":{"Data":"55AA0307000507040001001A","Cmnd":7,"CmndData":"0704000100","DpId":7,"DpIdType":4,"DpIdData":"00"}}
+21:13:38 TYA: fnId=0 is set for dpId=7
+21:13:38 {"TuyaReceived":{"Data":"55AA030700050A050001001E","Cmnd":7,"CmndData":"0A05000100","DpId":10,"DpIdType":5,"DpIdData":"00"}}
+21:13:38 TYA: fnId=0 is set for dpId=10
+21:13:40 WIF: Checking connection...
+21:13:40 WIF: Connected
