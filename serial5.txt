@@ -1,0 +1,20 @@
+18:46:24 CMD: Group 0, Index 5, Command "SERIALSEND", Data "55aa0001000000"
+18:46:24 MQT: stat/Zemismart_M515EGB/RESULT = {"SerialSend":"Done"}
+18:46:24 {"TuyaReceived":{"Data":"55AA0301002A7B2270223A227135796D68746F613673646A796D7778222C2276223A22312E302E30222C226D223A307D73","Cmnd":1,"CmndData":"7B2270223A227135796D68746F613673646A796D7778222C2276223A22312E302E30222C226D223A307D"}}
+18:46:24 TYA: MCU Product ID: {"p":"q5ymhtoa6sdjymwx","v":"1.0.0","m":0}
+18:46:24 TYA: Send "55aa0002000001"
+18:46:24 {"TuyaReceived":{"Data":"55AA0302000004","Cmnd":2}}
+18:46:24 TYA: RX MCU configuration Mode=0
+18:46:24 TYA: Read MCU state
+18:46:24 TYA: Send "55aa0008000007"
+18:46:25 {"TuyaReceived":{"Data":"55AA03070005010400010115","Cmnd":7,"CmndData":"0104000101","DpType4Id1":1,"1":{"DpId":1,"DpIdType":4,"DpIdData":"01"}}}
+18:46:25 TYA: fnId=0 is set for dpId=1
+18:46:25 {"TuyaReceived":{"Data":"55AA03070008020200040000000019","Cmnd":7,"CmndData":"0202000400000000","DpType2Id2":0,"2":{"DpId":2,"DpIdType":2,"DpIdData":"00000000"}}}
+18:46:25 TYA: fnId=0 is set for dpId=2
+18:46:25 {"TuyaReceived":{"Data":"55AA03070005050100010015","Cmnd":7,"CmndData":"0501000100","DpType1Id5":0,"5":{"DpId":5,"DpIdType":1,"DpIdData":"00"}}}
+18:46:25 TYA: fnId=0 is set for dpId=5
+18:46:25 {"TuyaReceived":{"Data":"55AA0307000507040001001A","Cmnd":7,"CmndData":"0704000100","DpType4Id7":0,"7":{"DpId":7,"DpIdType":4,"DpIdData":"00"}}}
+18:46:25 TYA: fnId=11 is set for dpId=7
+18:46:25 {"TuyaReceived":{"Data":"55AA030700050A050001001E","Cmnd":7,"CmndData":"0A05000100","DpType5Id10":"0x00","10":{"DpId":10,"DpIdType":5,"DpIdData":"00"}}}
+18:46:25 TYA: fnId=0 is set for dpId=10
+18:46:27 WIF: Checking connection...
