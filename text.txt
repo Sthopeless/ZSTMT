@@ -1,20 +1,23 @@
-21:13:38 {"TuyaReceived":{"Data":"55AA0301002A7B2270223A227135796D68746F613673646A796D7778222C2276223A22312E302E30222C226D223A307D73","Cmnd":1,"CmndData":"7B2270223A227135796D68746F613673646A796D7778222C2276223A22312E302E30222C226D223A307D"}}
-21:13:38 TYA: MCU Product ID: {"p":"q5ymhtoa6sdjymwx","v":"1.0.0","m":0}
-21:13:38 TYA: Send "55aa0002000001"
-21:13:38 {"TuyaReceived":{"Data":"55AA0302000004","Cmnd":2}}
-21:13:38 TYA: RX MCU configuration Mode=0
-21:13:38 TYA: Read MCU state
-21:13:38 TYA: Send "55aa0008000007"
-21:13:38 {"TuyaReceived":{"Data":"55AA03070005010400010115","Cmnd":7,"CmndData":"0104000101","DpId":1,"DpIdType":4,"DpIdData":"01"}}
-21:13:38 TYA: fnId=11 is set for dpId=1
-21:13:38 TYA: RX Relay-1 --> MCU State: On Current State:On
-21:13:38 {"TuyaReceived":{"Data":"55AA03070008020200040000000019","Cmnd":7,"CmndData":"0202000400000000","DpId":2,"DpIdType":2,"DpIdData":"00000000"}}
-21:13:38 TYA: fnId=0 is set for dpId=2
-21:13:38 {"TuyaReceived":{"Data":"55AA03070005050100010015","Cmnd":7,"CmndData":"0501000100","DpId":5,"DpIdType":1,"DpIdData":"00"}}
-21:13:38 TYA: fnId=0 is set for dpId=5
-21:13:38 {"TuyaReceived":{"Data":"55AA0307000507040001001A","Cmnd":7,"CmndData":"0704000100","DpId":7,"DpIdType":4,"DpIdData":"00"}}
-21:13:38 TYA: fnId=0 is set for dpId=7
-21:13:38 {"TuyaReceived":{"Data":"55AA030700050A050001001E","Cmnd":7,"CmndData":"0A05000100","DpId":10,"DpIdType":5,"DpIdData":"00"}}
-21:13:38 TYA: fnId=0 is set for dpId=10
-21:13:40 WIF: Checking connection...
-21:13:40 WIF: Connected
+18:41:08 {"TuyaReceived":{"Data":"55AA0307000802020004000000647D","Cmnd":7,"CmndData":"0202000400000064","DpType2Id2":100,"2":{"DpId":2,"DpIdType":2,"DpIdData":"00000064"}}}
+18:41:08 TYA: fnId=0 is set for dpId=2
+18:41:09 CFG: Saved to flash at F7, Count 217, Bytes 4096
+18:41:09 TYA: Send "55aa00000000ff"
+18:41:09 {"TuyaReceived":{"Data":"55AA030000010104","Cmnd":0,"CmndData":"01"}}
+18:41:09 TYA: Heartbeat
+18:41:09 {"TuyaReceived":{"Data":"55AA0307000802020004000000061F","Cmnd":7,"CmndData":"0202000400000006","DpType2Id2":6,"2":{"DpId":2,"DpIdType":2,"DpIdData":"00000006"}}}
+18:41:09 TYA: fnId=0 is set for dpId=2
+18:41:10 {"TuyaReceived":{"Data":"55AA03070008020200040000000821","Cmnd":7,"CmndData":"0202000400000008","DpType2Id2":8,"2":{"DpId":2,"DpIdType":2,"DpIdData":"00000008"}}}
+18:41:10 TYA: fnId=0 is set for dpId=2
+18:41:10 {"TuyaReceived":{"Data":"55AA03070008020200040000000922","Cmnd":7,"CmndData":"0202000400000009","DpType2Id2":9,"2":{"DpId":2,"DpIdType":2,"DpIdData":"00000009"}}}
+18:41:10 TYA: fnId=0 is set for dpId=2
+18:41:11 {"TuyaReceived":{"Data":"55AA03070008020200040000000B24","Cmnd":7,"CmndData":"020200040000000B","DpType2Id2":11,"2":{"DpId":2,"DpIdType":2,"DpIdData":"0000000B"}}}
+18:41:11 TYA: fnId=0 is set for dpId=2
+18:41:11 {"TuyaReceived":{"Data":"55AA03070008020200040000000C25","Cmnd":7,"CmndData":"020200040000000C","DpType2Id2":12,"2":{"DpId":2,"DpIdType":2,"DpIdData":"0000000C"}}}
+18:41:11 TYA: fnId=0 is set for dpId=2
+18:41:12 {"TuyaReceived":{"Data":"55AA03070008020200040000000E27","Cmnd":7,"CmndData":"020200040000000E","DpType2Id2":14,"2":{"DpId":2,"DpIdType":2,"DpIdData":"0000000E"}}}
+18:41:12 TYA: fnId=0 is set for dpId=2
+18:41:12 {"TuyaReceived":{"Data":"55AA03070008020200040000000F28","Cmnd":7,"CmndData":"020200040000000F","DpType2Id2":15,"2":{"DpId":2,"DpIdType":2,"DpIdData":"0000000F"}}}
+18:41:12 TYA: fnId=0 is set for dpId=2
+18:41:13 {"TuyaReceived":{"Data":"55AA0307000802020004000000112A","Cmnd":7,"CmndData":"0202000400000011","DpType2Id2":17,"2":{"DpId":2,"DpIdType":2,"DpIdData":"00000011"}}}
+18:41:13 TYA: fnId=0 is set for dpId=2
+18:41:13 {"TuyaReceived":{"Data":"55AA0307000802020004000000122B","Cmnd":7,"CmndData":"0202000400000012","DpType2Id2":18,"2":{"DpId":2,"DpIdType":2,"DpIdData":"00000012"}}}
